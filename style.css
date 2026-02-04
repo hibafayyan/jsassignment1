@@ -1,0 +1,96 @@
+.summer{
+    height: 100vh;
+    width: 100vw;
+    background-image: url("https://i.pinimg.com/originals/f1/48/19/f14819463a131d57a919440466c54b2e.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+
+ .summer .card-body h5{
+    color: lightcoral;
+}
+
+.summer .btn {
+    background-color: lightcoral;
+    
+}
+ /* snowy card styling */
+
+.snowy{
+     height: 100vh;
+    width: 100vw;
+    background-image: url("https://i.pinimg.com/originals/e4/a6/b9/e4a6b92746b595562938d01b6a5e4445.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.snowy .card-body h5 , .Thunderstorm .card-body h5 {
+    color: rgb(103, 137, 158);
+}
+
+.snowy .btn {
+    background-color:rgb(103, 137, 158);
+    
+}
+
+/* Thunderstorm card styling */
+.Thunderstorm{
+  height: 100vh;
+    width: 100vw;
+    background-image: url("https://media.tenor.com/DuUxCxFcs3IAAAAM/sky-clouds.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+
+
+/* cloudy card syling  */
+
+.cloudy{
+  height: 100vh;
+    width: 100vw;
+    background-image: url("https://i.makeagif.com/media/8-26-2023/cjaI99.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+
+
+.cloudy .card-body h5 , .Thunderstorm .card-body h5 {
+    color:#708090;
+}
+
+.cloudy .btn , .Thunderstorm .btn {
+    background-color: #708090;
+}
+
+/* windy card styling */
+
+.windy{
+  height: 100vh;
+    width: 100vw;
+    background-image: url("https://blog.aweber.com/wp-content/uploads/2022/09/content-8871-hello-autumn_gif-1200x675-1-1.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+
+.windy .card-body h5{
+color:rgb(255, 145, 0)
+}
+.windy .btn{
+    background-color:rgb(255, 145, 0);
+}
+
+
+
+
+
+p{
+    color: gray;
+}
